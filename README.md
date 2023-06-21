@@ -1,2 +1,2 @@
 # Meme
-Funny meme of Amlan using HTML and CSS
+Funny meme of Amlan using HTML and CSS only
